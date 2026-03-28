@@ -1,6 +1,6 @@
 # Hey, I'm Kuda M'ndau 👋🏾
 
-Independent Performance Science Researcher | Full Stack Developer in Training | Founder of Biorhythmic Productivity Systems (BPS)
+Independent Researcher | Pioneer of Biorhythmic Productivity Systems | High-Performance Science & Behavioural Architecture | Full Stack Developer in Training 
 
 ---
 
