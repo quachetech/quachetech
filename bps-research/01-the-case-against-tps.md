@@ -291,5 +291,5 @@ The charges are clear. The solution is sound. The work is beginning. Productivit
 # **REFERENCES**
 5. Paulas, M. P., Potterat, E. G., Taylor, M. K., Van Orden, K. F., Bauman, J., Momen, N., Padilla, G. A. and Swain, J. L. (2009). **A Neuroscience Approach to Optimising Brain Resources for Human Performance in Extreme Environments.** _Neuroscience &_ _Biobehavio__u__ral_ _Reviews. 2009_ _July ;_ _33(7): 1080-1088._ https://doi.org/10.1016/j.neubiorev.2009.05.003
 6. Rutenfranz, J. and Colquhoun, W. P. (1979). **Circadian Rhythms in Human Pergormance.** _Scand J Work Environ Health 1979__;5__(3):167-117._ https://doi.org/10.5271/sjweh.3090
-7. Swart, W. and Duncan, S. (2005). **Productivity** **And** **Human Performance: Completing The Continuous Improvement Spiral.** _Conference Paper_ _2025__._ https://doi.org/10.18260/1-2—14912
-8. Tang, Y. and Tang, R. (2025). **Performance** **Neuroscience****.** _Journal of Integrative Neuroscience. 2025; 24(1): 25134._ https://doi.org/10.31083/JIN24134
+7. Swart, W. and Duncan, S. (2005). **Productivity And Human Performance: Completing The Continuous Improvement Spiral.** _Conference Paper_ _2025__._ https://doi.org/10.18260/1-2—14912
+8. Tang, Y. and Tang, R. (2025). **Performance Neuroscience.** _Journal of Integrative Neuroscience. 2025; 24(1): 25134._ https://doi.org/10.31083/JIN24134
