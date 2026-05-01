@@ -26,7 +26,7 @@ Systems. Learning. Designing. Creating. Asking questions nobody has asked yet.
 *Updated as each paper is completed.*
 
 **BPS Working Papers**
-- ✅ Working Paper 1 — *Biorhythmic Productivity Systems: Introduction To The Case* *(March 2026)*
+- ✅ Working Paper 1 — [*Biorhythmic Productivity Systems: Introduction To The Case* *(March 2026)*](./bps-research/01-case-against-tps.md) 
 - 🔄 Working Paper 2 — *In Progress*
 
 ## 🛠️ Projects
