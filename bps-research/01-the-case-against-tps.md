@@ -12,8 +12,9 @@ abstract: |
 # BIORHYTHMIC PRODUCTIVITY SYSTEMS: INTRODUCTION TO THE CASE
 #### Working Paper #1 – The Debut
 Kuda M'ndau [https://orcid.org/0009-0003-1859-1443]
-> **3/17/2026**
-> 
+
+**3/17/2026**
+
 > **Citation Suggestion:** Kuda M'ndau (2026). Biorhythmic Productivity Systems: Introduction To The Case.
 >
 > Working Paper Series, Available at: [BPS Research](https://github.com/quachetech/quachetech/tree/main/bps-research)
