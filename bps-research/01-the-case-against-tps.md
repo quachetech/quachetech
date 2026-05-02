@@ -1,6 +1,6 @@
 ---
 title: "BIORHYTHMIC PRODUCTIVITY SYSTEMS: INTRODUCTION TO THE CASE"
-author: "Kuda M'ndau"
+author: "Kuda M'ndau | Independent Researcher"
 orcid: "https://orcid.org/0009-0003-1859-1443"
 date: "March 2026"
 status: "Working Paper (Series 1 of 4)"
@@ -11,11 +11,11 @@ abstract: |
 
 # BIORHYTHMIC PRODUCTIVITY SYSTEMS: INTRODUCTION TO THE CASE
 #### Working Paper #1 – The Debut
-Kuda M'ndau [https://orcid.org/0009-0003-1859-1443]
+Kuda M'ndau | Independent Researcher [https://orcid.org/0009-0003-1859-1443]
 
 **3/17/2026**
 
-> **Citation Suggestion:** Kuda M'ndau (2026). Biorhythmic Productivity Systems: Introduction To The Case.
+> **Citation Suggestion:** Kuda M'ndau (2026). Biorhythmic Productivity Systems: Introduction To The Case. https://github.com/quachetech/quachetech/blob/main/bps-research/01-the-case-against-tps.md
 >
 > Working Paper Series, Available at: [BPS Research](https://github.com/quachetech/quachetech/tree/main/bps-research)
 
