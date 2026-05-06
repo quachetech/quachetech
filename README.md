@@ -10,7 +10,7 @@ I'm developing **Biorhythmic Productivity Systems (BPS)** — a new interdiscipl
 The body is not a tool. It's the infrastructure.
 
 ## 💻 What I'm Learning
-- 🌐 Full Stack Web Development via **The Odin Project** *(190 Day Challenge — Day 39)*
+- 🌐 Full Stack Web Development via **The Odin Project** *(190 Day Challenge — Day 40)*
 - 🐧 Linux Ubuntu — because the terminal is home now
 - 🇩🇪 Deutsch — **300+ day streak** and counting
 
