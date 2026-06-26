@@ -1,6 +1,6 @@
 # Hey, I'm Kuda M'ndau 👋🏾
 
-Independent Researcher | Pioneer of Biorhythmic Productivity Systems | High-Performance Science & Behavioural Architecture | Full Stack Developer in Training 
+Independent Researcher | Pioneer of Biorhythmic Productivity Systems | High-Performance Science & Behavioural Architecture | Full Stack Developer in Training | Digital Marketer in Training
 
 ---
 
